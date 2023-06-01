@@ -1,0 +1,15 @@
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\bin\Debug\PACMAN_2218.exe.config
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\bin\Debug\PACMAN_2218.exe
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\bin\Debug\PACMAN_2218.pdb
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.csproj.AssemblyReference.cache
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.csproj.SuggestedBindingRedirects.cache
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Form2.resources
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Properties.Resources.resources
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.csproj.GenerateResource.cache
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.exe
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.pdb
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Form3.resources
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Form4.resources
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Form_Instructions.resources
+C:\Users\unknown\Desktop\eleni\PACMAN_2218\obj\Debug\PACMAN_2218.Form1.resources
